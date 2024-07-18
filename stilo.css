@@ -1,0 +1,21 @@
+.FlexContainerEYCD {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 100%;
+    background-color: white;
+    height: 97vh;
+    overflow: auto;
+    flex-direction: row;
+  }
+  .modelEYCD {
+    width: 100%;
+    height: 250px;
+    margin: 5px;
+    background-color: white;
+    border-width: 400px;
+    border: solid;
+    border-color: black;
+  }
